@@ -1,0 +1,37 @@
+[
+  {
+    "fullName": "bhuvaneshkumar",
+    "businessName": "realtech",
+    "email": "bhuvanesh@gmail.com",
+    "phone": "9003151801",
+    "service": "website-development",
+    "budget": "",
+    "projectDescription": "check the requirement",
+    "preferredContact": "whatsapp",
+    "consent": true,
+    "clientIp": "::ffff:127.0.0.1",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+    "id": "RT-2026-7101",
+    "status": "received",
+    "createdAt": "2026-10-26T07:51:07.701Z",
+    "updatedAt": "2026-10-26T07:51:07.701Z"
+  },
+  {
+    "fullName": "Sivakumar Raman",
+    "businessName": "Puducherry Agro Supplies",
+    "email": "siva@puducherryagro.in",
+    "phone": "+91 94432 10987",
+    "service": "business-catalogue",
+    "budget": "3000-7000",
+    "projectDescription": "We need a B2B catalogue website to list our organic fertilizers and seeds for regional retail outlets with WhatsApp ordering.",
+    "preferredContact": "whatsapp",
+    "consent": true,
+    "clientIp": "::ffff:127.0.0.1",
+    "userAgent": "Python-urllib/3.14",
+    "id": "RT-2026-4356",
+    "status": "contacted",
+    "createdAt": "2026-10-26T07:42:43.133Z",
+    "updatedAt": "2026-10-26T07:43:09.007Z",
+    "notes": "Spoke with Sivakumar. Scheduled demo for Wednesday."
+  }
+]
